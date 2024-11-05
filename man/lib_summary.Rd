@@ -4,7 +4,10 @@
 \alias{lib_summary}
 \title{provide number of r packages by lirbary}
 \usage{
-lib_summary()
+lib_summary(sizes = FALSE)
+}
+\arguments{
+\item{sizes}{should sizes of libraries be calculated, default is false}
 }
 \value{
 a data frame of R
