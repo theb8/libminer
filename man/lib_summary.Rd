@@ -7,7 +7,7 @@
 lib_summary()
 }
 \value{
-#a data frame of R
+a data frame of R
 }
 \description{
 provide number of r packages by lirbary

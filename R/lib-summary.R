@@ -1,7 +1,8 @@
 #' provide number of r packages by lirbary
 #'
-#' @return #a data frame of R
+#' @return a data frame of R
 #' @export
+#'
 #'
 #' @examples
 #' lib_summary()
