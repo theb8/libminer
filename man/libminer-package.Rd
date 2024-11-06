@@ -12,6 +12,7 @@ Provide functions to learn about R libraries.
 Useful links:
 \itemize{
   \item \url{https://github.com/theb8/libminer}
+  \item \url{https://theb8.github.io/libminer/}
   \item Report bugs at \url{https://github.com/theb8/libminer/issues}
 }
 
